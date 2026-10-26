@@ -1,7 +1,12 @@
 # Customer Care Call Center System
 
 A web-based Customer Care Call Center application built using Python and Flask. The system helps customer-care teams manage incoming customer complaints, track call status, and transfer unresolved issues from Junior Executives to Senior Executives.
+**
 
+## Screenshot
+
+
+![Customer Care Call Center - Junior Dashboard](customer-care-dashboard.png)
 ## Features
 
 - **Login System:** Separate login access for Junior and Senior Executives.
